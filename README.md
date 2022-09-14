@@ -110,7 +110,10 @@ void loop(){
 
 
 ![4th exp](https://user-images.githubusercontent.com/93427186/190160043-e4ac3f02-c0b2-4ab8-ab35-12bc78834184.png)
+### Serial moniter
 
+
+![se](https://user-images.githubusercontent.com/93427186/190162717-428f3a0f-525b-40b1-b6f0-98379ac6a6e2.jpeg)
 
 
 
