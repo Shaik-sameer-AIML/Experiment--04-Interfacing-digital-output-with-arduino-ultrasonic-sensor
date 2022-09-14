@@ -95,7 +95,8 @@ void loop(){
 			
 			
 
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
+![table](https://user-images.githubusercontent.com/93427186/190160687-3177773b-3bef-484e-9f5e-70516937f653.jpeg)
+
 
 			
 			
@@ -114,6 +115,7 @@ void loop(){
 
 
 ### RESULTS
+Thus the distance value is measured in "CM" using ultrasonic sensor.
 
 
 
