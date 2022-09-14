@@ -103,7 +103,8 @@ void loop(){
 			
 			
 			
-			Average error = sum/ number of readings 
+### Average error = sum/ number of readings 
+### Average Error=1.7+1.2+1.3+2.1+2.5/5=1.76			
  
 ### Output
 
