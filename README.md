@@ -105,7 +105,7 @@ void loop(){
 			
 			Average error = sum/ number of readings 
  
-
+### Output
 
 
 ![4th exp](https://user-images.githubusercontent.com/93427186/190160043-e4ac3f02-c0b2-4ab8-ab35-12bc78834184.png)
